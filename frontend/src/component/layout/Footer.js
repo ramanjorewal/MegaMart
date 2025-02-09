@@ -20,14 +20,13 @@ const Footer = () => {
         </a>
         <p>High Quality is our first priority</p>
 
-        <p>Copyrights 2024 &copy; Created By Arpit Kaithwar</p>
+        <p>Copyrights 2024 &copy; Created By Raman Jorewal</p>
       </div>
 
       <div className="rightFooter">
         <h4>Follow Us</h4>
-        <a href="https://www.instagram.com/arpit_kaithwar_/">Instagram</a>
-        <a href="http://www.linkedin.com/in/arpit-kaithwar-ak83035">LinkedIn</a>
-        <a href="https://github.com/Kaithwar">GitHub</a>
+        <a href="https://www.linkedin.com/in/ramanjorewal/">LinkedIn</a>
+        <a href="https://github.com/ramanjorewal/MegaMart">GitHub</a>
       </div>
     </footer>
   );
