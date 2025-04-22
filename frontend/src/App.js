@@ -75,8 +75,8 @@ function App() {
       {isAuthenticated && <Useropt user={user} />}
       <Routes>
       <Route path='/' element={<Home />} />
-      <Route path='/about' element={<About />} />
-      <Route path='/contact' element={<Contact />} />
+      {/* <Route path='/about' element={<About />} />
+      <Route path='/contact' element={<Contact />} /> */}
       <Route path='/product/:id' element={<ProductDetail />} />
       <Route path='/products' element={<Products />} />
       <Route path='/products/:keyword' element={<Products />} />
